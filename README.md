@@ -4,7 +4,7 @@
 
   ![](https://projecteuler.net/project/images/p015.gif)
 
-###Features
+### Features
 
 - LatticePathsFinder help to identify all the possible path. 
 - You have to numbering left to right & top to bottom each and every edges.
